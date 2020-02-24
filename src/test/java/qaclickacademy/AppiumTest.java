@@ -19,5 +19,13 @@ public class AppiumTest {
 	public void TwitterDelete()
 	{
 		System.out.println("TwitterDelete");
+		System.out.println("TwitterDelete");
+		System.out.println("TwitterDelete");
+		System.out.println("TwitterDelete");
+	}
+	@Test
+	public void TwitterDelete1()
+	{
+		System.out.println("TwitterDelete");
 	}
 }
